@@ -1,0 +1,11 @@
+.nav-menu{
+    display: flex;
+    justify-content:space-between;
+    align-items:center;
+}
+.navbig{
+    align-items:center
+}
+#cat{
+    left: 20%;
+}
